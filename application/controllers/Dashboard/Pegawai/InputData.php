@@ -26,5 +26,10 @@ class InputData extends MY_Controller
     
     $this->load->view(LAYOUT_DASHBOARD, $data);
   }
+
+  function saveDataPegawai()
+  {
+    
+  }
   
 }

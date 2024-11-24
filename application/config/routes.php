@@ -18,6 +18,10 @@ $route['request_forgot_password']                                   = "Authentic
 $route['dashboard']                                                 = "Dashboard/Home";
 
 $route['pegawai_input_data']                                        = "Dashboard/Pegawai/InputData";
+$route['pegawai_save_data']                                        = "Dashboard/Pegawai/InputData/saveDataPegawai";
+
+
+
 $route['pegawai_rekap_all']                                         = "Dashboard/Pegawai/RekapAll";
 $route['pegawai_rekap_contract']                                    = "Dashboard/Pegawai/RekapContract";
 
